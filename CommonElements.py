@@ -1,4 +1,4 @@
-# Common Elements in a Sorted Array
+# Common Elements in a Sorted List
 def common_elements(list1, list2):
     p1 = 0
     p2 = 0
