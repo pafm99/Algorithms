@@ -33,7 +33,7 @@ public class Nth {
         Node right = head;
 
         // First, make sure that we have at least n items in the linked list.
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n-1; i++) {
             if (right == null) return null;
             right = right.child;
         }
