@@ -1,4 +1,4 @@
-// Write a function that takes a binary tree and returns true if it is a binary search tree, and false if not
+// Is it a Binary Search Tree? Write a function that takes a binary tree and returns true if it is a binary search tree, and false if not
 
 import java.util.HashMap;
 import java.util.Stack;
