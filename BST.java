@@ -5,7 +5,7 @@ import java.util.Stack;
 
 public class BST {
     public static void main(String[] args) {
-        // NOTE: The following input values will be used for testing your solution.
+        // The following input values will be used for testing your solution.
         // The mapping we're going to use for constructing a tree.
         // For example, {0: [1, 2]} means that 0's left child is 1, and its right
         // child is 2.
